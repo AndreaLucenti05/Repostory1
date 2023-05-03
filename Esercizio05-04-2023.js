@@ -15,8 +15,4 @@
         "id":"myFourthDiv",
         "innerHTML" : "myDiv4"
     },
-    "div5":{
-        "id":"myFifthDiv",
-        "innerHTML" : "myDiv5"
-    },
 }
